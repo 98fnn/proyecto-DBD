@@ -1,0 +1,14 @@
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\bin\Debug\net7.0\basedd.exe
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\bin\Debug\net7.0\basedd.deps.json
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\bin\Debug\net7.0\basedd.runtimeconfig.json
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\bin\Debug\net7.0\basedd.dll
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\bin\Debug\net7.0\basedd.pdb
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.AssemblyInfoInputs.cache
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.AssemblyInfo.cs
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.dll
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\refint\basedd.dll
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.pdb
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\basedd.genruntimeconfig.cache
+C:\Users\ISAAC\OneDrive\Escritorio\proyecto DBD\basedd\obj\Debug\net7.0\ref\basedd.dll
